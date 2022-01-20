@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(37, 255, 37);
+
+}
+#sketchtobedrawn{
+    color: red;
+}
+.score{
+    font-size: 30px;
+    margin-left: 35px ;
+}
+.time{
+    font-size: 30px;
+    margin-right: 20px ;
+    float:right;
+}
+p{
+    font-size: 35px;
+}
